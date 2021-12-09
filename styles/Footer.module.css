@@ -1,3 +1,12 @@
 .footerLink:hover {
   color: #3E7E8E;
+  text-decoration: underline;
+}
+@media screen and (max-width: 768px) {
+  .mobileFlexReverse {
+    flex-direction: column-reverse;
+  }
+  .mobileFlexReverse p {
+    margin-top: 20px;
+  }
 }

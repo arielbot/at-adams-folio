@@ -45,7 +45,7 @@ const Projects = () => {
               duration: .2
             },
           }}>
-          <h3>Framer Motion Avatar Intro &rarr;</h3>
+          <h3>Framer Motion Avatar State&rarr;</h3>
           <p>
             Simple Framer Motion project in NextJS to simulate the fire nation takeover. I made this for a team training on Framer Motion.
           </p>

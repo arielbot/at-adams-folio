@@ -71,7 +71,7 @@ const Skills = () => {
   return (
     <section className="container px-4 mx-auto lg:max-w-4xl">
       <div>
-        <h2 id="skills" className="text-2xl font-bold text-gray-900 lg:text-4xl dark:text-white mb-10 mt-15">Skills</h2>
+        <h2 id="skills" className={`text-2xl font-bold text-gray-900 lg:text-4xl dark:text-white mb-10 mt-20 ${styles.skillMobileTitle}`}>Skills</h2>
         {/* skill 1 */}
         <div className={styles.flex}>
           <div className={styles.bgGray}>
