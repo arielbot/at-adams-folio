@@ -1,0 +1,65 @@
+.container {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+.wrapper {
+  margin: 30px 20px 10px;
+}
+.wrapper h3 {
+  font-size: 40px;
+  margin: 30px auto;
+  text-align: center;
+}
+.flex {
+  display: flex;
+  margin-bottom: 0.6250em;
+}
+.bgGray {
+  background-color: #d3d3d3;
+  height: 30px;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  position: relative;
+  border-radius: 10px;
+}
+.skillFill {
+  background-color: #3E7E8E;
+  border-radius: 10px;
+}
+.forty {
+  width: 40%;
+  height: 100%;
+}
+.seventyfive {
+  width: 75%;
+  height: 100%;
+}
+.eighty {
+  width: 80%;
+  height: 100%;
+}
+.ninety {
+  width: 90%;
+  height: 100%;
+}
+.skillTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  background-color: #3E7E8E;
+  color: #fff;
+  width: 105px;
+  height: 100%;
+  border-radius: 10px 0 0 10px;
+}
+.skillPercent{
+  position: absolute;
+  top: 5px;
+  right: 2%;
+  color: #000 !important;
+}
