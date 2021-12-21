@@ -57,7 +57,7 @@ const Skills = () => {
       width: `${10}%`
     },
     load: {
-      width: `${35}%`,
+      width: `${45}%`,
       transition: {
         duration: 3,
         delay: 0.3,

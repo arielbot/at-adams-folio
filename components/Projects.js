@@ -29,15 +29,15 @@ const Projects = () => {
           <p>Basic blog linked to Contentful CMS. I made this to compare Gatsby Image vs NextJS Image component.</p>
         </motion.a>
 
-        {/* <motion.a href="" className={styles.card} whileHover={{
+        <motion.a href="https://birds-eye-vue3.netlify.app/" target="_blank" className={styles.card} whileHover={{
             scale: 1.1,
             transition: {
               duration: .2
             },
           }}>
-          <h3>Recipe App &rarr;</h3>
-          <p>Uh oh spicy! Pumpkin! Hahahaha. Pumpkin tasty!</p>
-        </motion.a> */}
+          <h3>Bird's Eye Vue &rarr;</h3>
+          <p>A basic card matching game using Vue.js 3. I hope you like birding.</p>
+        </motion.a>
 
         <motion.a href="https://loco-motion.vercel.app/" target="_blank" className={styles.card} whileHover={{
             scale: 1.1,
@@ -47,7 +47,7 @@ const Projects = () => {
           }}>
           <h3>Framer Motion Avatar State&rarr;</h3>
           <p>
-            Simple Framer Motion project in NextJS to simulate the fire nation takeover. I made this for a team training on Framer Motion.
+            Simple Framer Motion project in NextJS. I spun this up for a team training on Framer Motion.
           </p>
         </motion.a>
       </div>
