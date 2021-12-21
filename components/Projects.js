@@ -36,7 +36,7 @@ const Projects = () => {
             },
           }}>
           <h3>Bird's Eye Vue &rarr;</h3>
-          <p>A basic card matching game using Vue.js 3. I hope you like birding.</p>
+          <p>A basic card matching game using VueJS 3. I hope you like birding.</p>
         </motion.a>
 
         <motion.a href="https://loco-motion.vercel.app/" target="_blank" className={styles.card} whileHover={{
