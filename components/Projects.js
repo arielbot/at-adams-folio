@@ -26,7 +26,7 @@ const Projects = () => {
               },
             }}>
           <h3>Gatsby Blog &rarr;</h3>
-          <p>Basic blog linked to Contentful CMS. I made this to compare Gatsby Image vs NextJS Image component.</p>
+          <p>Basic blog built using Gatsby. I made this to play around with the Contentful CMS.</p>
         </motion.a>
 
         <motion.a href="https://birds-eye-vue3.netlify.app/" target="_blank" className={styles.card} whileHover={{

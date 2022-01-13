@@ -26,7 +26,7 @@ const Footer = () => {
                             GitHub
                         </a>
                         <a
-                            href="/files/arielAdams_resume2021.pdf" target="_blank"
+                            href="/files/aAdams_resume.pdf" target="_blank"
                             rel="noopener noreferrer" className={`transition-colors hover ${styles.footerLink}`}
                         >
                             Download My Resume
